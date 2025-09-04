@@ -15,3 +15,4 @@ svdconv/
 # automatically generated crates
 /stm32*/
 .zed
+.DS_Store
