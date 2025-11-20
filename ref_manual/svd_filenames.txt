@@ -16,7 +16,7 @@
 [x] stm32f302.svd
 [x] stm32f303.svd
 [x] stm32f373.svd
-[x] stm32f3x4.svd -- not sure
+[] stm32f3x4.svd -- not sure
 [] stm32f3x8.svd -- not sure
 [x] stm32f401.svd
 [x] stm32f405.svd
